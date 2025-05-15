@@ -20,7 +20,7 @@ def index():
         classes = model.classes_
         
         # Get indices of top 3 probabilities
-        top_n = 5
+        top_n = 10
         top_indices = probs.argsort()[-top_n:][::-1]
         
         # Prepare list of (job_profile, confidence)
