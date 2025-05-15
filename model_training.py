@@ -20,8 +20,21 @@ roles = [
     "BI Developer", "ETL Developer", "Information Security Analyst", "Tech Support Engineer", "Scrum Master",
     "Cloud Security Engineer", "Web Developer", "React Developer", "Angular Developer", "Java Developer",
     "Python Developer", "Node.js Developer", "C++ Developer", "PHP Developer", "Ruby on Rails Developer",
-    "Android Developer", "iOS Developer", "Technical Writer", "CRM Developer", "SAP Consultant"
+    "Android Developer", "iOS Developer", "Technical Writer", "CRM Developer", "SAP Consultant",
+    "Machine Learning Researcher", "Data Warehouse Engineer", "SEO Specialist", "QA Automation Engineer",
+    "Systems Engineer", "Firmware Engineer", "Mobile UX Designer", "Data Visualization Specialist",
+    "Cybersecurity Engineer", "Penetration Tester", "Cloud Infrastructure Engineer", "Release Manager",
+    "Business Intelligence Analyst", "Database Developer", "Information Architect", "Technical Program Manager",
+    "Computer Graphics Developer", "Embedded Software Developer", "Linux Administrator", "IT Auditor",
+    "IT Manager", "Network Administrator", "Python Backend Developer", "Ruby Developer", "Scala Developer",
+    "SAP Developer", "Salesforce Developer", "Security Consultant", "Security Analyst", "SEO Analyst",
+    "Site Reliability Engineer", "Software Development Engineer in Test", "Software Tester", "Solutions Engineer",
+    "Storage Engineer", "Support Engineer", "Systems Analyst", "Technical Account Manager", "Technical Recruiter",
+    "Technical Support Specialist", "UX Researcher", "Virtualization Engineer", "Voice UI Designer",
+    "Web Content Manager", "Web Producer", "Windows Administrator", "Wireless Communications Engineer",
+    "XML Developer", "Cloud Consultant", "Digital Marketing Analyst", "IoT Solutions Architect"
 ]
+
 
 # ✅ Fetch job descriptions for all roles
 def fetch_jobs_for_all_roles():
